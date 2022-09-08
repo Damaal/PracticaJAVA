@@ -5,8 +5,7 @@ pipeline {
       stage('Fecha de hoy') {
          steps {
             script{
-               Date fecha = new Date();
-               System.out.println(fecha);
+            
             }
          }
       }
