@@ -1,9 +1,13 @@
+import java.util.Date;
 pipeline {
    agent any
    stages {
-      stage('Hello') {
+      stage('Fecha de hoy') {
          steps {
-             echo "Hola Mundo"
+            script{
+               Date fecha = new Date();
+               System.out.println(fecha);
+            }
          }
       }
    }
