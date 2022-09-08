@@ -85,6 +85,7 @@ public class Principal {
 				}
 				Files.write(archivo, listaVentas, StandardCharsets.UTF_8);
 				
+				sc.close();
 			} catch (FileNotFoundException e) {
 				System.out.println("Error creando el Scanner");
 				e.printStackTrace();
