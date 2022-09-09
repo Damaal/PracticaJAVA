@@ -1,0 +1,19 @@
+import java.time.LocalDate
+pipeline{
+	agent any
+	stages{
+		stage("holaMundo"){
+			steps{
+				script{
+					println "¡Hola, hoy es un dia espectacular para producir chocolate! Mira lo que se ha producido: "
+					println "Chocolate Blanco	1000"
+					println "Chocolate Negro	1500"
+					println "Chocolate con almendras	1200"
+					println "Chocolate con castañas caju	1300"
+					println "Chocolate en Rama	100"
+					println "Chocolate 70% Cacao	1500"
+				}
+			}
+		}
+	}
+}
