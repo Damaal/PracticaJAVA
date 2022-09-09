@@ -142,7 +142,7 @@ public class Principal {
 		jenk.add("		stage(\"holaMundo\"){");//{
 		jenk.add("			steps{");//{
 		jenk.add("				script{");//{
-		jenk.add("					println \"¡Hola mundo! El día de hoy es \" LocalDate.now().getDayOfWeek()");
+		jenk.add("					println \"¡Hola mundo! El día de hoy es \" + LocalDate.now().getDayOfWeek()");
 		jenk.add("					println \"Este curso me hizo programar mucho en JAVA\"");
 		jenk.add("				}");
 		jenk.add("			}");
