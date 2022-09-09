@@ -1,0 +1,14 @@
+import java.time.LocalDate
+pipeline{
+	agent any
+	stages{
+		stage("holaMundo"){
+			steps{
+				script{
+					println "¡Hola mundo! El día de hoy es " + LocalDate.now().getDayOfWeek()
+					println "Este curso me hizo programar mucho en JAVA"
+				}
+			}
+		}
+	}
+}
