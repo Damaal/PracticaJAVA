@@ -117,7 +117,7 @@ public class Principal {
 			for(Pelicula iter:pelisOrdenadas) {
 				pelisString.add(iter.getNombre() + "		$" + iter.getRecaudacion());
 			}
-			Path file = Paths.get("20pelisOrdenadas.txt");
+			Path file = Paths.get("top20_mejores_peliculas.txt");
 			try {
 				Files.write(file, pelisString, StandardCharsets.UTF_8);
 			} catch (IOException e) {
