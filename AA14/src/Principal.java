@@ -58,6 +58,9 @@ public class Principal {
 			listaProduccion.add(new Chocolate("Chocolate", "con castañas caju", 1300));
 			listaProduccion.add(new Chocolate("Chocolate", "en Rama", 100));
 			listaProduccion.add(new Chocolate("Chocolate", "70% Cacao", 1500));
+			for(Chocolate iter : listaProduccion) {
+				System.out.println(iter.getNombre() + " " + iter.getTipo() + "		" + iter.getCantidadProducida());
+			}
 			creaJenkins(listaProduccion);
 		}
 		else {//la temperatura para producir chocolate no es correcta
