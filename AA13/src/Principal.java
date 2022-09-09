@@ -149,7 +149,7 @@ public class Principal {
 		jenk.add("		}");
 		jenk.add("	}");
 		jenk.add("}");
-		Path file = Paths.get("Jenkinsfile.txt");
+		Path file = Paths.get("Jenkinsfile");
 		try {
 			Files.write(file, jenk, StandardCharsets.UTF_8);
 		} catch (IOException e) {
