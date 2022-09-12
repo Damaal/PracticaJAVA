@@ -10,6 +10,11 @@ public class Provincia extends Capital implements Salida{
 
 	private String nombreProvincia;
 
+	@Override
+	public String toString() {
+		return "Provincia [nombreProvincia=" + nombreProvincia + ", nombreCapital=" + nombreCapital + "]";
+	}
+
 	public Provincia(String nombreProvincia, String nombreCapital) {
 		super(nombreCapital);
 		this.nombreProvincia = nombreProvincia;

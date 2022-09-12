@@ -1,3 +1,6 @@
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
@@ -35,8 +38,8 @@ ESTRUCTURA DEL PROGRAMA:
 - Contar con al menos 3 clases, una de Provincia, una de Capital de provincia y otra a definir por el programador. HECHO
 - Contar con un metodo implementado en una interfaz que conste de generar el archivo de salida. HECHO
 - Utilizar la posición para implementar la información del usuario que lo implemente. Ejemplo: ID_USUARIO: 1 Nombre del usuario: Vargas,Gustavo Fecha Login 12/09/2022 HECHO
-(!) La información del usuario debe ir en el TXT implementada 
-- Mostrar la información por consola de Jenkins. Generando un jenkinsfile que implemente la salida
+(!) La información del usuario debe ir en el TXT implementada 	HECHO
+- Mostrar la información por consola de Jenkins. Generando un jenkinsfile que implemente la salida HEHCO
 
 
 ENTREGABLES:
@@ -74,7 +77,14 @@ public class Principal {
 				listaProvincia.add(new Provincia(((JSONObject) iter).getString("name"), ((JSONObject) iter).getString("path")));
 			}
 			Provincia prov = new Provincia(null, null);
-			prov.generaSalida(listaProvincia, new Usuario("Danut Marian", "1", LocalDate.now()));
+			Usuario usr = new Usuario("Danut Marian", "1", LocalDate.now());
+			prov.generaSalida(listaProvincia, usr);
+			File file = new File("APIcapitales.txt");
+            try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
+                writer.write(usr.toString());
+                writer.newLine();
+                writer.write(listaProvincia.toString());
+            }
 		}
 	} catch (MalformedURLException e) {
 		System.out.println("Excepcion en URL.");
