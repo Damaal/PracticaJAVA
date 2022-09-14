@@ -1,0 +1,170 @@
+<mxfile host="app.diagrams.net" modified="2022-09-14T13:39:09.911Z" agent="5.0 (Windows)" etag="g7cSW40yS-Dglkmi-DOh" version="20.3.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="981" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-0" value="HINCHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-1" value="PARTIDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-6" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-7" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-8" value="HOTEL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-7" target="NvZbEffuL_4OlB-5fU4d-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="70" />
+              <mxPoint x="130" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-8" target="NvZbEffuL_4OlB-5fU4d-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-16" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-17" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-19" value="PACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-19" target="NvZbEffuL_4OlB-5fU4d-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-21" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-23" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-28" value="ESTADIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-29" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="630" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-33" value="FUN FEST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.121;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-1" target="NvZbEffuL_4OlB-5fU4d-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-35" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-36" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-37" value="EQUIPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-37" target="NvZbEffuL_4OlB-5fU4d-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-39" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-40" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-41" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-42" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-43" value="hospeda" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="165" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-44" value="tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-45" value="retransmite" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-46" value="juega" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-47" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-28" target="NvZbEffuL_4OlB-5fU4d-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="270" as="sourcePoint" />
+            <mxPoint x="630" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-48" value="participa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-49" value="invita" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-51" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;fontSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-59" target="NvZbEffuL_4OlB-5fU4d-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-52" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-53" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=7;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="220" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-55" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-57" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-58" value="visita" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-59" value="visita" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="65" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-60" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvZbEffuL_4OlB-5fU4d-0" target="NvZbEffuL_4OlB-5fU4d-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="570" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvZbEffuL_4OlB-5fU4d-61" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;AA23&lt;br&gt;&lt;/h1&gt;Se quiere registrar la información de turistas “hinchas” que ingresaron al país y su participación en los partidos y en los fun fests. &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;De un “hincha” sabemos su nombre, su DNI y su domicilio completo (nro, calle, localidad) y su nacionalidad.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Un hincha puede o no haber invitado a otros hinchas, pero cada hincha fue invitado por una sola persona.&lt;br style=&quot;font-size: 11px;&quot;&gt;También se quiere saber en qué hotel/es se hospedaron durante su estadía en Brasil. &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;De los hoteles se conoce su id (único en todo el país), su nombre, su dirección y la cantidad de estrellas. &lt;br style=&quot;font-size: 11px;&quot;&gt;En los hoteles se pueden haber hospedado varios hinchas y un hincha pudo haber estado hospedado en varios hoteles.&lt;br style=&quot;font-size: 11px;&quot;&gt;Como los brasileños estaban muy contentos con la llegada de tantos turistas, le regalaron a cada uno que&lt;br style=&quot;font-size: 11px;&quot;&gt;ingresa al país un pack de cotillón para que alentaran a los equipos. Se desea registrar los packs entregados.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;Para esto, cada pack tiene un nombre que describe el conjunto de cotillón (ej: Vuvuzelas remanentes del&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;Mundial 2010) y una lista enumerando los elementos que contiene. &lt;br style=&quot;font-size: 11px;&quot;&gt;Había una cantidad limitada de packs, y cada hincha pudo conseguir varios packs, pero nunca varios del mismo nombre. &amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;También puede haber hinchas que no consiguieron ninguno. El nombre del pack de cotillón no es único, es decir que puede haber&lt;br style=&quot;font-size: 11px;&quot;&gt;dos packs con el mismo nombre. Para que no haya confusiones ni pérdidas en los eventos cada hincha etiquetó su pack con su DNI.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Todos los hinchas querían ir a ver partidos, pero no todos lograron conseguir entradas. &lt;br style=&quot;font-size: 11px;&quot;&gt;Los hinchas que consiguieron entradas consumieron cerveza en los partidos. Se quiere registrar la cantidad que toma cada&lt;br style=&quot;font-size: 11px;&quot;&gt;hincha por partido, para luego hacer campañas concientizadoras.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Cada partido se jugó en un determinado estadio y fecha con varios árbitros, de los cuales sólo se quiere saber&lt;br style=&quot;font-size: 11px;&quot;&gt;los nombres. También se registraron la cantidad de espectadores por cada partido.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Los hinchas que no pudieron ir a los estadios fueron a ver los partidos a las fun fests. &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;De cada fun fest sabemos la ciudad donde se realizó, la duración y el código que identificó a la fiesta. &lt;br style=&quot;font-size: 11px;&quot;&gt;En cada fun fest se televisó un sólo partido, pero el mismo partido se transmitió por más de una fun fest.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Adicionalmente sabemos que un partido fue jugado por dos equipos. De ellos se sabe el país de origen (que&lt;br style=&quot;font-size: 11px;&quot;&gt;es único entre todos los equipos), la sede donde se hospedaron, cantidad de mundiales ganados y el nombre&lt;br style=&quot;font-size: 11px;&quot;&gt;del DT. Los equipos jugaron varios partidos. Si un equipo llegó hasta la final habrá jugado 7 partidos; si se&lt;br style=&quot;font-size: 11px;&quot;&gt;fue en grupos, la primera etapa de eliminación, jugó solo 3." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="380" width="680" height="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
