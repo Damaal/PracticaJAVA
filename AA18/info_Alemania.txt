@@ -1,0 +1,8 @@
+Información generada por Danut(ID22743) aaaa
+Pais: Alemania
+Capital: Berlin
+Continente: Europa
+Habitantes: 83240000
+Clima: Frio
+Salario minimo: 1500
+PIB: 124860000000€

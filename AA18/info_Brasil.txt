@@ -1,0 +1,8 @@
+Información generada por Danut(ID22743) aaaa
+Pais: Brasil
+Capital: Brasilia
+Continente: America del Sur
+Habitantes: 212600000
+Clima: Variado
+Salario minimo: 500
+PIB: 106300000000€

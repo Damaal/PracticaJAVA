@@ -1,0 +1,8 @@
+Información generada por Danut(ID22743) aaaa
+Pais: Argentina
+Capital: Buenos Aires
+Continente: America del sur
+Habitantes: 44000000
+Clima: Humedo
+Salario minimo: 1
+PIB: 44000000€

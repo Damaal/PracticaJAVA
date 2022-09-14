@@ -1,0 +1,8 @@
+Información generada por Danut(ID22743) aaaa
+Pais: EspaÃ±a
+Capital: Madrid
+Continente: Europa
+Habitantes: 47350000
+Clima: Calido
+Salario minimo: 1050
+PIB: 49717500000€
